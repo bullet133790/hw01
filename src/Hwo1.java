@@ -18,7 +18,7 @@ public class Hwo1 {
 
         String age = scanner.nextLine();
 
-        System.out.println("where are you from?,");
+        System.out.println("where are you from?");
 
         String country = scanner.nextLine();
 
